@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" backgroundColor="black" exitOnClose="true">
+		<Button onClick="openScrollView">Pull to refresh on ScrollView</Button>
+	</Window>
+</Alloy>
