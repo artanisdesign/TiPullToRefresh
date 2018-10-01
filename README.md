@@ -1,5 +1,8 @@
 # Gmail / Foursquare like Pull to refresh solution for Android Titanium
 
+# PLEASE NOTE!
+This library is outdated and deprecated. Please use the [built-in](https://docs.appcelerator.com/platform/latest/#!/api/Titanium.UI.RefreshControl) API from Appcelerator. 
+
 
 ![Image](../master/pulltorefresh.gif)
 
